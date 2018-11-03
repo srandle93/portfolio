@@ -1,0 +1,45 @@
+.box {
+    align-content: center;
+    height: 400px;
+    width: 600px;
+    border-color: black;
+    border-width: 5px;
+    border-style: groove;
+    background-color: white;
+    margin: 0 auto
+}
+
+#message {
+    align-content: center;
+    border-color: black;
+    height: 150px;
+    width: 560px;
+    border-width: 3px;
+    border-style: inset;
+    background-color: white;
+    margin: 0 auto
+}
+
+#profilePic {
+    height: 200px;
+    width: 150px
+}
+
+.container {
+    align-content: center;
+    height: 900px;
+    width: 600px;
+    border-color: black;
+    border-width: 5px;
+    border-style: groove;
+    background-color: white;
+    margin: 0 auto
+}
+
+.col s3 {
+    border-color: black;
+    border-width: 5px;
+    /* height: 200px; */
+    align-content: center
+
+}
