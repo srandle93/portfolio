@@ -36,10 +36,50 @@
     margin: 0 auto
 }
 
-.col s3 {
-    border-color: black;
-    border-width: 5px;
-    /* height: 200px; */
-    align-content: center
+/* portfolio page */
+.icons{
+    background-image: url("./images/posterBoard.jpeg");
+    align-content: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 150px
+}
+.col.s3
+{
+    align-content: center;
+    display: inline-block;            
+    /* border: 1px solid black; */
+    /* width: 18px; */
+    height: 200px;
+    margin-left: -1px;
+    margin-bottom: -1px;
+}
+.col.s6
+{
+    align-content: center;
+    display: inline-block;            
+    /* border: 1px solid black; */
+    /* width: 18px; */
+    height: 200px;
+    margin-left: -1px;
+    margin-bottom: -1px;
+}
+img.game {
+    align-content: center;
+    margin-left: 15%;
+    height: 148px;
+    width: 70%;
+}
+img.game2 {
+    align-content: center;
+    margin-left: 25%;
+    height: 148px;
+    width: 50%;
+}
+.links{
+    margin-left: 15%;
+}
 
+.links2{
+    margin-left: 25%;
 }
