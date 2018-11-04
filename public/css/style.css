@@ -1,6 +1,11 @@
+/* All Pages */
+.nav-wrapper {
+background-color: #8e24aa;
+}
+/* Contact Page */
 .box {
     align-content: center;
-    height: 400px;
+    height: 80%;
     width: 600px;
     border-color: black;
     border-width: 5px;
@@ -16,22 +21,6 @@
     width: 560px;
     border-width: 3px;
     border-style: inset;
-    background-color: white;
-    margin: 0 auto
-}
-
-#profilePic {
-    height: 200px;
-    width: 150px
-}
-
-.container {
-    align-content: center;
-    height: 900px;
-    width: 600px;
-    border-color: black;
-    border-width: 5px;
-    border-style: groove;
     background-color: white;
     margin: 0 auto
 }
@@ -58,8 +47,6 @@
 {
     align-content: center;
     display: inline-block;            
-    /* border: 1px solid black; */
-    /* width: 18px; */
     height: 200px;
     margin-left: -1px;
     margin-bottom: -1px;
